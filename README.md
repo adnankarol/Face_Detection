@@ -5,3 +5,5 @@ More Haar Cascade are available under github licensed by Intel such as left eye 
 Download these xml files and store them under your main folder for the ones you want to use and change the code acccordingly.
 
 Here we use the eye and the frontal_face cascade files.
+
+A sample output is attached also.
